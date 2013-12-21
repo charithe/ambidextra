@@ -1,1 +1,1 @@
-{"shell-version": ["3.4.1"], "uuid": "ambidextra@charith.otiose.me", "name": "Ambidextra Mouse Switcher", "description": "Switch the mouse from left-handed to right-handed or vice versa"}
+{"shell-version": ["3.4", "3.6", "3.8", "3.10"], "uuid": "ambidextra@charith.otiose.me", "name": "Ambidextra Mouse Switcher", "description": "Switch the mouse from left-handed to right-handed or vice versa"}
